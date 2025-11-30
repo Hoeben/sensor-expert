@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.asensor.eu/</title>
+  <link>http://www.asensor.eu/</link>
+
+<item>
+     <link>http://www.asensor.eu/</link>
+     <title>ASensor.eu</title>
+     <description>Landing home page of ASensor Technology AB in Sweden</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/index.php</link>
+     <title>ASensor.eu</title>
+     <description>Landing home page of ASensor Technology AB in Sweden</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/products/Overview.php</link>
+     <title>ASensor.eu</title>
+     <description>ASensor.eu</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/products/HALLoverview.php</link>
+     <title>ASensor.eu</title>
+     <description>ASensor.eu</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/products/index.php</link>
+     <title>ASensor.eu</title>
+     <description>ASensor.eu</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/products/HE144P.php</link>
+     <title>HE144P High Precision Hall Sensor</title>
+     <description>HE144P High Precision Hall Sensor</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/products/HE144SH.php</link>
+     <title>HE144SH SMD High Precision Hall Sensor, horizontal</title>
+     <description>HE144SH SMD High Precision Hall Sensor, horizontal</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/products/HE144SV.php</link>
+     <title>HE144SV SMD High Precision Hall Sensor, vertical</title>
+     <description>HE144SV SMD High Precision Hall Sensor, vertical</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/products/HE144T.php</link>
+     <title>HE144T High Precision Hall Sensor with twisted pair wiring</title>
+     <description>HE144T High Precision Hall Sensor with twisted pair wiring</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/products/HE144CT.php</link>
+     <title>HE144CT</title>
+     <description>HE144CT</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/products/HE244S.php</link>
+     <title>HE244S Ultra Stable High Precision Hall Sensor</title>
+     <description>HE244S Ultra Stable High Precision Hall Sensor</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/products/HE244T.php</link>
+     <title>HE244T Ultra Stable High Precision Hall Sensor</title>
+     <description>HE244T Ultra Stable High Precision Hall Sensor</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/products/HE244SH.php</link>
+     <title>HE244SH SMD Ultra Stable High Precision Hall Sensor</title>
+     <description>HE244SH SMD Ultra Stable High Precision Hall Sensor</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/products/HE244SV.php</link>
+     <title>HE244SV SMD Vertical Ultra Stable High Precision Hall Sensor</title>
+     <description>HE244SV SMD Vertical Ultra Stable High Precision Hall Sensor</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/products/HE244P.php</link>
+     <title>HE244P Ultra Stable High Precision Hall Sensor</title>
+     <description>HE244P Ultra Stable High Precision Hall Sensor</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/products/HE444.php</link>
+     <title>HE444 3D High Precision Hall Sensor</title>
+     <description>HE444 3D High Precision Hall Sensor</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/products/NDIRoverview.php</link>
+     <title>ASensor.eu</title>
+     <description>ASensor.eu</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/products/NDIRemitter.php</link>
+     <title>ASensor.eu</title>
+     <description>ASensor.eu</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/products/NDIRdetector.php</link>
+     <title>ASensor.eu</title>
+     <description>ASensor.eu</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/products/Temperature.php</link>
+     <title>ASensor.eu</title>
+     <description>ASensor.eu</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/company/</link>
+     <title>AST Company Info</title>
+     <description>AST Company Description</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/contact/</link>
+     <title>AST Contact Information</title>
+     <description>AST Contact Page</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/productdata/Product%20Overview%20Hall%20Sensors%20HE444%20HE244%20HE144%20%2016-06-2011-ENG.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/productdata/Produktueberblick%20Hall%20Sensoren%20HE444%20HE244%20HE144%20%2016-06-2011-DE.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/productdata/Siemens%20KSY14%20Datasheet.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/productdata/Siemens%20KSY44%20Datasheet.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/productdata/Siemens%20KSY10%20Datasheet.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/productdata/Siemens%20KSY13%20Datasheet.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/productdata/Datasheet-HE144-20120601.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/productdata/Offset-compensation.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/productdata/Datasheet%20HE244_20120515.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/contact/index.php</link>
+     <title>AST Contact Information</title>
+     <description>AST Contact Page</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.asensor.eu/productdata/Datasheet-HE444-20120515.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
